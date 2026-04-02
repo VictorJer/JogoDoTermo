@@ -2,6 +2,8 @@ internal class Program
 {
     private static void Main(string[] args)
     {
+        string resposta;
+
         string[] palavras = new string[]
         {
             "amigo", "carro", "fazer", "feliz", "jogar",
@@ -9,17 +11,41 @@ internal class Program
             "termo", "velho", "sagaz", "claro", "poder"
         };
 
-        Console.WriteLine("----------------------------------");
-        Console.WriteLine("Bem-vindo ao Jogo do Termo!");
-        Console.WriteLine("----------------------------------");
+        do
+        {
+            Console.WriteLine("----------------------------------");
+            Console.WriteLine("Bem-vindo ao Jogo do Termo!");
+            Console.WriteLine("----------------------------------");
 
-        Random random = new Random();
-        int numeroDePalavras = random.Next(1, 16);
+            Random random = new Random();
+            string palavraSecreta = palavras[random.Next(0, palavras.Length)];
 
-        Console.Write(palavras[numeroDePalavras - 1]);
+            System.Console.WriteLine("== Primeira tentativa ==");
+            System.Console.Write("Digite seu palpite (5 letras): ");
+            string? palpite = Console.ReadLine().ToLower();
+
+            // Validamos se o palpite tem exatamente 5 letras
+            if (palpite.Length != 5)
+            {
+                Console.WriteLine("Por favor, digite uma palavra de exatamente 5 letras.");
+            }
+            else
+            {
+                for (int i = 0; i < 5; i++)
+                {
+                    if (palpite[i] == palavraSecreta[i])
+                    {
+                        System.Console.WriteLine(palpite[i]);
+                    }
+                }
+            }
 
 
 
+            Console.WriteLine("Deseja jogar novamente? (s/n)");
+            resposta = Console.ReadLine();
+
+        } while (resposta == "s");
 
     }
 }
