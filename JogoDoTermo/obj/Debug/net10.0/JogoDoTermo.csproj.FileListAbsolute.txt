@@ -1,0 +1,14 @@
+C:\Users\victo\OneDrive\Documentos\JogoDoTermo\JogoDoTermo\bin\Debug\net10.0\JogoDoTermo.exe
+C:\Users\victo\OneDrive\Documentos\JogoDoTermo\JogoDoTermo\bin\Debug\net10.0\JogoDoTermo.deps.json
+C:\Users\victo\OneDrive\Documentos\JogoDoTermo\JogoDoTermo\bin\Debug\net10.0\JogoDoTermo.runtimeconfig.json
+C:\Users\victo\OneDrive\Documentos\JogoDoTermo\JogoDoTermo\bin\Debug\net10.0\JogoDoTermo.dll
+C:\Users\victo\OneDrive\Documentos\JogoDoTermo\JogoDoTermo\bin\Debug\net10.0\JogoDoTermo.pdb
+C:\Users\victo\OneDrive\Documentos\JogoDoTermo\JogoDoTermo\obj\Debug\net10.0\JogoDoTermo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Documentos\JogoDoTermo\JogoDoTermo\obj\Debug\net10.0\JogoDoTermo.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Documentos\JogoDoTermo\JogoDoTermo\obj\Debug\net10.0\JogoDoTermo.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Documentos\JogoDoTermo\JogoDoTermo\obj\Debug\net10.0\JogoDoTermo.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Documentos\JogoDoTermo\JogoDoTermo\obj\Debug\net10.0\JogoDoTermo.dll
+C:\Users\victo\OneDrive\Documentos\JogoDoTermo\JogoDoTermo\obj\Debug\net10.0\refint\JogoDoTermo.dll
+C:\Users\victo\OneDrive\Documentos\JogoDoTermo\JogoDoTermo\obj\Debug\net10.0\JogoDoTermo.pdb
+C:\Users\victo\OneDrive\Documentos\JogoDoTermo\JogoDoTermo\obj\Debug\net10.0\JogoDoTermo.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Documentos\JogoDoTermo\JogoDoTermo\obj\Debug\net10.0\ref\JogoDoTermo.dll
