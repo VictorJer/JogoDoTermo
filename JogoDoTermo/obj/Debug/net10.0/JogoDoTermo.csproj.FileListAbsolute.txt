@@ -12,3 +12,4 @@ C:\Users\victo\OneDrive\Documentos\JogoDoTermo\JogoDoTermo\obj\Debug\net10.0\ref
 C:\Users\victo\OneDrive\Documentos\JogoDoTermo\JogoDoTermo\obj\Debug\net10.0\JogoDoTermo.pdb
 C:\Users\victo\OneDrive\Documentos\JogoDoTermo\JogoDoTermo\obj\Debug\net10.0\JogoDoTermo.genruntimeconfig.cache
 C:\Users\victo\OneDrive\Documentos\JogoDoTermo\JogoDoTermo\obj\Debug\net10.0\ref\JogoDoTermo.dll
+C:\Users\victo\OneDrive\Documentos\JogoDoTermo\JogoDoTermo\obj\Debug\net10.0\JogoDoTermo.sourcelink.json
